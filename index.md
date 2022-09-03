@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Arnav Vyas's First CS193 Homework
+
+- Things I love about CS193:
+- It's useful and practical for CS and DS majors
+- The workload is not too heavy
+- The instructors are very pleasant and informative
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
